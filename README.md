@@ -20,7 +20,8 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 ## Misc
 
 * [Miden website](https://polygon.technology/polygon-miden)
-* [Miden organization repository](https://github.com/0xPolygonMiden)
+* [Miden organization repository](https://docs.polygon.technology/miden/)
+<!-- * [Miden organization repository](https://github.com/0xPolygonMiden) -->
 * [Miden playground](https://0xpolygonmiden.github.io/examples/)
 
 ## Documentation
