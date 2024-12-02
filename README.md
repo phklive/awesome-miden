@@ -52,24 +52,31 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 ## Videos
 
-* []()
- 
-
-
-**Useful links:**
-
-_General_
-- [Website]()
-- []()
-
-_Documentation_
-- [Miden organization repository]()
-- [Miden general documentation]()
-- [Miden VM documentation]()
-- [Miden playground]()
-
-_Videos_
-
-_Blogs_
-
-
+* [ZK Day at SBC - Workshop by Paul-Henry Kajfasz, Senior Protocol Engineer at Polygon Miden](https://www.youtube.com/watch?v=RdeIx4LHb2A) - Paul-Henry Kajfasz, ZK Day at SBC
+* [Polygon Miden: A New VM for the ZK Future | Avail Whiteboard Series](https://www.youtube.com/watch?v=QuLhkaszLtA&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=1&t=1s) - Bobbin Threadbare, Avail Whiteboard Series
+* [ZK8: The power of multiset checks in STARK-based VMs - grjte - Polygon Miden](https://www.youtube.com/watch?v=PA8jT_POYUo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=2) - grjte, ZK Summit 8 
+* [ZK9: AirScript - a simple and efficient way to write AIR constraints](https://www.youtube.com/watch?v=PA8jT_POYUo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=2) - grjte, ZK Summit 9 
+* [ZK10: Optimizing recursive STARK verification in Polygon Miden VM](https://www.youtube.com/watch?v=uL2J31dQfLI&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=4) - Bobbin Threadbare, ZK Summit 10
+* [zkStudyClub: AirScript presented by Bobbin Threadbare]() - Bobbin Threadbare, ZK Study Club
+* [ZK Whiteboard Sessions - Module Four: SNARKs vs STARKs with Bobbin Threadbare](https://www.youtube.com/watch?v=qUrA97TG2YU&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=6) - Bobbin Threadbare, Brendan Farmer, ZK Whiteboard Sessions
+* [ZK HACK IV - Provable State Changes: Polygon Miden Transaction Kernel](https://www.youtube.com/watch?v=V4fzsti11qU&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=7) - Dominik Schmid, Bobbin Threadbare, ZK Hack IV
+* [ZK Whiteboard Sessions – Module Nine: Introduction to zkRollups with Barry Whitehat](https://www.youtube.com/watch?v=lJS4z2n4P1E&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=8) - Bobbin Threadbare, Barry Whitehat, ZK Whiteboard Sessions
+* [ZK Whiteboard Sessions – Module Eight: Achieving Decentralised Private Computation](https://www.youtube.com/watch?v=_oW29AOKWTs&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=9) - Bobbin Threadbare, Pratyush Mishra, ZK Whiteboard Sessions
+* [ZK Whiteboard Sessions – Module Seven: Zero Knowledge Virtual Machines (zkVM) with grjte](https://www.youtube.com/watch?v=GRFPGJW0hic&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=10) - Bobbin Threadbare, grjte, ZK Whiteboard Sessions 
+* [AirScript: a DSL for writing AIR constraints | Bobbin Threadbare | PROGCRYPTO](https://www.youtube.com/watch?v=UxCW33hvnfc&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=11) - Bobbin Threadbare, PROGCRYPTO
+* [StarkWare Sessions 23 | AirScript: A DSL for Writing AIR Constraints | Bobbin Threadbare](https://www.youtube.com/watch?v=8Rk2DOD4ba8&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=12) - Bobbin Threadbare, StarkWare Sessions 2023
+* [Miden & the Future of Privacy Preserving Protocols presented by Paul-Henry Kajfasz of Polygon Miden](https://www.youtube.com/watch?v=GC4jR2rh-5U&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=13&t=3s) - Paul-Henry Kajfasz, ZK Accelerate Athens
+* [Recursion in the Miden VM, by Augusto Hack of Polygon Miden](https://www.youtube.com/watch?v=P1ZM6Ead6fo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=14) - Augusto Hack, ZK Accelerate Istanbul
+* [Polygon Miden VM | Avail's Hot Take Series: The Execution Race (EthDenver)](https://www.youtube.com/watch?v=fl51Cer7-bY&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=15) - Dominik Schmid, EthDenver
+* [ZK7: Miden VM: a STARK-friendly VM for blockchains - Bobbin Threadbare – Polygon](https://www.youtube.com/watch?v=81UAaiIgIYA&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=16) - Bobbin Threadbare, ZK Summit 7
+* [09 Miden VM architecture overview](https://www.youtube.com/watch?v=mO5ZDrjtb3I&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=17) - Bobbin Threadbare, 0xParc
+* [Bobbin Threadbare - Miden VM: the heart of Polygon Miden](https://www.youtube.com/watch?v=S2NfpC8cJog&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=18&t=1137s) - Bobbin Threadbare, Layer Two Amsterdam
+* [Polygon Miden: Extending Ethereum’s Feature Set | Dominik Schmid (April 2023)](https://www.youtube.com/watch?v=jMTMidok9sA&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=19) - Dominik Schmid, Ethereum Berlin
+* [Using a Hybrid UTXO and Account-based State Model in a ZK Rollup by Bobbin Threadbare](https://www.youtube.com/watch?v=TEPY19-hie4&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=20) - Bobbin Threadbare, Devcon Bogota
+* [Miden: Ethereum Extended](https://www.youtube.com/watch?v=FEh7mYASia4&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=21) - Dominik Schmid, Ethereum Engineering Group
+* [Polygon Miden - a STARK based ZK Rollup](https://www.youtube.com/watch?v=pLu7XeEN-f4&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=22) - Bobbin Threadbare, ETH Global
+* [Episode 210: The Road to STARKs and Miden with Bobbin Threadbare](https://www.youtube.com/watch?v=cpGb6daIKm4&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=23) - Bobbin Threadbare, ZK Podcast
+* [Provable Compliance on Polygon Miden and beyond / Anne-Grace Kleczewski](https://www.youtube.com/watch?v=t6NQ8nFDMvg) - Anne-Grace Kleczewski, Duct Tape
+* [LAMBDA Class: How Polygon Miden works by Ignacio Amigo](https://www.youtube.com/watch?v=CtBTOw5385Y) - Ignacio Amigo, Keom
+* [Privacy Scales Better by Dominik Schmid, Polygon | L2con Brussels](https://www.youtube.com/watch?v=gmamoa8N_N0) - Dominik Schmid, L2con Brussels
+* [Mass adoption with private and asynchronous blockchains, by Bobbin Threadbare of Polygon Miden] - Bobbin Threadbare, ZK Accelerate Bangkok
