@@ -81,7 +81,7 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 * [Provable Compliance on Polygon Miden and beyond / Anne-Grace Kleczewski](https://www.youtube.com/watch?v=t6NQ8nFDMvg) - Anne-Grace Kleczewski, Duct Tape
 * [LAMBDA Class: How Polygon Miden works by Ignacio Amigo](https://www.youtube.com/watch?v=CtBTOw5385Y) - Ignacio Amigo, Keom
 * [Privacy Scales Better by Dominik Schmid, Polygon | L2con Brussels](https://www.youtube.com/watch?v=gmamoa8N_N0) - Dominik Schmid, L2con Brussels
-* [Mass adoption with private and asynchronous blockchains, by Bobbin Threadbare of Polygon Miden] - Bobbin Threadbare, ZK Accelerate Bangkok
+* [Mass adoption with private and asynchronous blockchains, by Bobbin Threadbare of Polygon Miden](https://www.youtube.com/watch?v=pfX6T29TolY) - Bobbin Threadbare, ZK Accelerate Bangkok
 
 ## Contributing
 
