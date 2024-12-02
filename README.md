@@ -8,10 +8,12 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 <!-- toc -->
 
-- [Repositories](#repositories)
+- [Misc](#misc)
 - [Documentation](#documentation)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
+- [Contributing](#contributing)
+- [License](#license)
 
 <!-- tocstop -->
 
@@ -80,3 +82,11 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 * [LAMBDA Class: How Polygon Miden works by Ignacio Amigo](https://www.youtube.com/watch?v=CtBTOw5385Y) - Ignacio Amigo, Keom
 * [Privacy Scales Better by Dominik Schmid, Polygon | L2con Brussels](https://www.youtube.com/watch?v=gmamoa8N_N0) - Dominik Schmid, L2con Brussels
 * [Mass adoption with private and asynchronous blockchains, by Bobbin Threadbare of Polygon Miden] - Bobbin Threadbare, ZK Accelerate Bangkok
+
+## Contributing
+
+We welcome contributions. Feel free to submit pull requests or open issues.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
