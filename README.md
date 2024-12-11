@@ -27,7 +27,7 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 ## Documentation
 
-* [Miden general documentation](https://0xpolygonmiden.github.io/miden-docs)
+* [Miden protocol documentation](https://0xpolygonmiden.github.io/miden-docs)
 * [Miden VM documentation](https://0xpolygonmiden.github.io/miden-vm/)
 
 ## Research papers
