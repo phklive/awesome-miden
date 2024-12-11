@@ -20,15 +20,25 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 ## Misc
 
 * [Miden website](https://polygon.technology/polygon-miden)
-* [Miden organization repository](https://docs.polygon.technology/miden/)
-<!-- * [Miden organization repository](https://github.com/0xPolygonMiden) -->
+* [Miden organization repository](https://github.com/0xPolygonMiden)
 * [Miden playground](https://0xpolygonmiden.github.io/examples/)
 * [Miden X](https://twitter.com/0xPolygonMiden)
+* [Miden Telegram](https://t.me/MidenCommunity)
 
 ## Documentation
 
 * [Miden general documentation](https://0xpolygonmiden.github.io/miden-docs)
 * [Miden VM documentation](https://0xpolygonmiden.github.io/miden-vm/)
+
+## Research papers
+
+* [Generalized Indifferentiable Sponge and its Application to Polygon Miden VM](https://eprint.iacr.org/2024/911)
+* [XHash: Efficient STARK-friendly Hash Function](https://eprint.iacr.org/2023/1045)
+* [Rescue-Prime Optimized](https://eprint.iacr.org/2022/1577)
+* [Lattice-Based Cryptography in Miden VM](https://eprint.iacr.org/2022/1041)
+* [STARK-based Signatures from the RPO Permutation](https://eprint.iacr.org/2024/1553)
+* [A note on adding zero-knowledge to STARKs](https://eprint.iacr.org/2024/1037)
+* [Arithmetization Oriented Encryption](https://eprint.iacr.org/2023/1668)
 
 ## Blog posts
 
