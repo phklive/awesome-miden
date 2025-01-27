@@ -30,6 +30,10 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 * [Miden protocol documentation](https://0xpolygonmiden.github.io/miden-docs)
 * [Miden VM documentation](https://0xpolygonmiden.github.io/miden-vm/)
 
+## Tooling
+* [Miden Assembly Syntax Highlighting VS Code Extention](https://marketplace.visualstudio.com/items?itemName=dlock.miden-assembly)
+* [Miden Assembly Code Formatter](https://crates.io/crates/masm-formatter)
+
 ## Research papers
 
 * [Generalized Indifferentiable Sponge and its Application to Polygon Miden VM](https://eprint.iacr.org/2024/911)
