@@ -10,6 +10,7 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 - [Misc](#misc)
 - [Documentation](#documentation)
+- [Tooling](#tooling)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
 - [Contributing](#contributing)
@@ -31,8 +32,9 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 * [Miden VM documentation](https://0xpolygonmiden.github.io/miden-vm/)
 
 ## Tooling
-* [Miden Assembly Syntax Highlighting VS Code Extention](https://marketplace.visualstudio.com/items?itemName=dlock.miden-assembly)
-* [Miden Assembly Code Formatter](https://crates.io/crates/masm-formatter)
+
+* [Miden Assembly syntax highlighting VS Code extention](https://marketplace.visualstudio.com/items?itemName=dlock.miden-assembly)
+* [Miden Assembly code formatter](https://crates.io/crates/masm-formatter)
 
 ## Research papers
 
