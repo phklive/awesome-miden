@@ -24,6 +24,7 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 - [Miden organization repository](https://github.com/0xPolygonMiden)
 - [Miden protocol playground](https://miden-playground.pages.dev/)
 - [Miden VM playground](https://0xpolygonmiden.github.io/examples/)
+- [Miden tutorials](https://github.com/0xPolygonMiden/miden-tutorials)
 - [Miden X](https://twitter.com/0xPolygonMiden)
 - [Miden Telegram](https://t.me/MidenCommunity)
 
