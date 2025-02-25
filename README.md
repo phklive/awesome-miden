@@ -22,7 +22,8 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 - [Miden website](https://polygon.technology/polygon-miden)
 - [Miden organization repository](https://github.com/0xPolygonMiden)
-- [Miden playground](https://0xpolygonmiden.github.io/examples/)
+- [Miden protocol playground](https://miden-playground.pages.dev/)
+- [Miden VM playground](https://0xpolygonmiden.github.io/examples/)
 - [Miden X](https://twitter.com/0xPolygonMiden)
 - [Miden Telegram](https://t.me/MidenCommunity)
 
@@ -48,11 +49,12 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 ## Blog posts
 
-- [Miden Asset Model](https://polygon.technology/blog/polygon-miden-asset-model)
-- [Miden State Model](https://polygon.technology/blog/polygon-miden-state-model)
+- [Miden Alpha Testnet v6 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v6-is-live)
 - [Miden Alpha Testnet v5 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v5-is-live)
 - [Miden Alpha Testnet v4 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v4-is-live)
 - [Miden Alpha Testnet v3 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v3-is-live)
+- [Miden Asset Model](https://polygon.technology/blog/polygon-miden-asset-model)
+- [Miden State Model](https://polygon.technology/blog/polygon-miden-state-model)
 - [Miden Pioneers: Composability Labs building an Onchain CLOB](https://polygon.technology/blog/miden-pioneers-composability-labs-is-building-spark-a-superfast-onchain-clob-with-a-state-minimized-approach)
 - [Miden Alpha Testnet v2 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v-2-live)
 - [Miden Pioneers: Rize Labs building online poker](https://polygon.technology/blog/miden-pioneers-how-rize-labs-is-building-fairness-into-online-poker-with-aze)
