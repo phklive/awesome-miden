@@ -2,7 +2,7 @@
 
 A collection of awesome Miden links, resources and shiny things.
 
-Visit our [website](https://polygon.technology/polygon-miden)!
+Visit our [website](https://miden.xyz/)!
 
 ## Table of contents
 
@@ -20,18 +20,18 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 ## Misc
 
-- [Miden website](https://polygon.technology/polygon-miden)
-- [Miden organization repository](https://github.com/0xPolygonMiden)
+- [Miden website]([https://polygon.technology/polygon-miden](https://miden.xyz/))
+- [Miden organization repository](https://github.com/0xMiden)
 - [Miden protocol playground](https://miden-playground.pages.dev/)
-- [Miden VM playground](https://0xpolygonmiden.github.io/examples/)
-- [Miden tutorials](https://github.com/0xPolygonMiden/miden-tutorials)
-- [Miden X](https://twitter.com/0xPolygonMiden)
-- [Miden Telegram](https://t.me/MidenCommunity)
+- [Miden VM playground](https://0xmiden.github.io/examples/)
+- [Miden tutorials](https://github.com/0xMiden/miden-tutorials)
+- [Miden X](https://twitter.com/0xMiden)
+- [Miden Telegram](https://t.me/BuildOnMiden)
 
 ## Documentation
 
-- [Miden protocol documentation](https://0xpolygonmiden.github.io/miden-docs)
-- [Miden VM documentation](https://0xpolygonmiden.github.io/miden-vm/)
+- [Miden protocol documentation](https://0xmiden.github.io/miden-docs)
+- [Miden VM documentation](https://0xmiden.github.io/miden-vm/)
 
 ## Tooling
 
@@ -50,23 +50,24 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 
 ## Blog posts
 
+- [Miden: The Edge Blockchain](https://miden.xyz/resource/blog/vision)
+- [Privacy scales better](https://polygon.technology/blog/privacy-a-fundamental-right-and-a-practical-necessity)
+- [The Future of Blockchain Is Off-Chain](https://miden.xyz/resource/blog/the-future-of-blockchains-is-off-chain)
+- [Miden Asset Model](https://miden.xyz/resource/blog/assets)
+- [Miden State Model](https://miden.xyz/resource/blog/state)
+- [Miden Transaction model](https://miden.xyz/resource/blog/transactions)
 - [Miden Alpha Testnet v6 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v6-is-live)
 - [Miden Alpha Testnet v5 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v5-is-live)
 - [Miden Alpha Testnet v4 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v4-is-live)
 - [Miden Alpha Testnet v3 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v3-is-live)
-- [Miden Asset Model](https://polygon.technology/blog/polygon-miden-asset-model)
-- [Miden State Model](https://polygon.technology/blog/polygon-miden-state-model)
-- [Miden Pioneers: Composability Labs building an Onchain CLOB](https://polygon.technology/blog/miden-pioneers-composability-labs-is-building-spark-a-superfast-onchain-clob-with-a-state-minimized-approach)
 - [Miden Alpha Testnet v2 is Live](https://polygon.technology/blog/polygon-miden-alpha-testnet-v-2-live)
+- [Miden Pioneers: Composability Labs building an Onchain CLOB](https://polygon.technology/blog/miden-pioneers-composability-labs-is-building-spark-a-superfast-onchain-clob-with-a-state-minimized-approach)
 - [Miden Pioneers: Rize Labs building online poker](https://polygon.technology/blog/miden-pioneers-how-rize-labs-is-building-fairness-into-online-poker-with-aze)
 - [Miden Pioneers: Keom, Defi using Zero Knowledge](https://polygon.technology/blog/miden-pioneers-keom-is-reinterpreting-defi-with-zero-knowledge-rails)
 - [Miden September Monthly Developer Update](https://polygon.technology/blog/polygon-miden-sprinting-towards-testnet-september-update)
 - [Layer 2 Demystified](https://polygon.technology/blog/layer-2-demystified-how-polygon-scales-ethereum)
-- [Privacy scales better](https://polygon.technology/blog/privacy-a-fundamental-right-and-a-practical-necessity)
 - [Polygon 2.0: Protocol Architecture](https://polygon.technology/blog/polygon-2-0-protocol-vision-and-architecture)
 - [Introducting Polygon 2.0: The Value Layer of the Internet](https://polygon.technology/blog/introducing-polygon-2-0-the-value-layer-of-the-internet)
-- [Miden Transaction model](https://polygon.technology/blog/polygon-miden-transaction-model-2)
-- [Miden Ethereum Extended](https://polygon.technology/blog/polygon-miden-ethereum-extended)
 - [Open Source, Zero Knowledge, and the Age of Copypasta](https://polygon.technology/blog/open-source-zero-knowledge-and-the-age-of-copypasta)
 - [ZK Whiteboard Sessions: Your Dev-Driven Curricula for All Things ZK](https://polygon.technology/blog/zk-whiteboard-sessions-your-dev-driven-curricula-for-all-things-zero-knowledge)
 - [Meet the Humans Building Polygon ZK](https://polygon.technology/blog/meet-the-humans-building-polygon-zk)
@@ -100,7 +101,6 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 - [Polygon Miden - a STARK based ZK Rollup](https://www.youtube.com/watch?v=pLu7XeEN-f4&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=22) - Bobbin Threadbare, ETH Global
 - [Episode 210: The Road to STARKs and Miden with Bobbin Threadbare](https://www.youtube.com/watch?v=cpGb6daIKm4&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=23) - Bobbin Threadbare, ZK Podcast
 - [Provable Compliance on Polygon Miden and beyond / Anne-Grace Kleczewski](https://www.youtube.com/watch?v=t6NQ8nFDMvg) - Anne-Grace Kleczewski, Duct Tape
-- [LAMBDA Class: How Polygon Miden works by Ignacio Amigo](https://www.youtube.com/watch?v=CtBTOw5385Y) - Ignacio Amigo, Keom
 - [Privacy Scales Better by Dominik Schmid, Polygon | L2con Brussels](https://www.youtube.com/watch?v=gmamoa8N_N0) - Dominik Schmid, L2con Brussels
 - [Mass adoption with private and asynchronous blockchains, by Bobbin Threadbare of Polygon Miden](https://www.youtube.com/watch?v=pfX6T29TolY) - Bobbin Threadbare, ZK Accelerate Bangkok
 
