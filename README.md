@@ -37,6 +37,7 @@ Visit our [website](https://miden.xyz/)!
 
 - [Miden Assembly syntax highlighting VS Code extention](https://marketplace.visualstudio.com/items?itemName=dlock.miden-assembly)
 - [Miden Assembly code formatter](https://crates.io/crates/masm-formatter)
+- [Miden Assembly Template Project](https://github.com/partylikeits1983/masm-project-template)
 
 ## Research papers
 
