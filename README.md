@@ -6,6 +6,8 @@ Visit our [website](https://miden.xyz/)!
 
 ## Table of contents
 
+<!-- toc -->
+
 - [Misc](#misc)
 - [Documentation](#documentation)
 - [Tooling](#tooling)
@@ -14,6 +16,8 @@ Visit our [website](https://miden.xyz/)!
 - [Videos](#videos)
 - [Contributing](#contributing)
 - [License](#license)
+
+<!-- tocstop -->
 
 ## Misc
 
