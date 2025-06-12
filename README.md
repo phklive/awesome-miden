@@ -11,6 +11,7 @@ Visit our [website](https://miden.xyz/)!
 - [Misc](#misc)
 - [Documentation](#documentation)
 - [Tooling](#tooling)
+- [Research papers](#research-papers)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
 - [Contributing](#contributing)
@@ -20,7 +21,7 @@ Visit our [website](https://miden.xyz/)!
 
 ## Misc
 
-- [Miden website]([https://polygon.technology/polygon-miden](https://miden.xyz/))
+- [Miden website](https://miden.xyz/)
 - [Miden organization repository](https://github.com/0xMiden)
 - [Miden protocol playground](https://miden-playground.pages.dev/)
 - [Miden VM playground](https://0xmiden.github.io/examples/)
@@ -79,15 +80,15 @@ Visit our [website](https://miden.xyz/)!
 
 - [ZK Day at SBC - Workshop by Paul-Henry Kajfasz, Senior Protocol Engineer at Polygon Miden](https://www.youtube.com/watch?v=RdeIx4LHb2A) - Paul-Henry Kajfasz, ZK Day at SBC
 - [Polygon Miden: A New VM for the ZK Future | Avail Whiteboard Series](https://www.youtube.com/watch?v=QuLhkaszLtA&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=1&t=1s) - Bobbin Threadbare, Avail Whiteboard Series
-- [ZK8: The power of multiset checks in STARK-based VMs - grjte - Polygon Miden](https://www.youtube.com/watch?v=PA8jT_POYUo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=2) - grjte, ZK Summit 8 
-- [ZK9: AirScript - a simple and efficient way to write AIR constraints](https://www.youtube.com/watch?v=PA8jT_POYUo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=2) - grjte, ZK Summit 9 
+- [ZK8: The power of multiset checks in STARK-based VMs - grjte - Polygon Miden](https://www.youtube.com/watch?v=PA8jT_POYUo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=2) - grjte, ZK Summit 8
+- [ZK9: AirScript - a simple and efficient way to write AIR constraints](https://www.youtube.com/watch?v=PA8jT_POYUo&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=2) - grjte, ZK Summit 9
 - [ZK10: Optimizing recursive STARK verification in Polygon Miden VM](https://www.youtube.com/watch?v=uL2J31dQfLI&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=4) - Bobbin Threadbare, ZK Summit 10
 - [zkStudyClub: AirScript presented by Bobbin Threadbare]() - Bobbin Threadbare, ZK Study Club
 - [ZK Whiteboard Sessions - Module Four: SNARKs vs STARKs with Bobbin Threadbare](https://www.youtube.com/watch?v=qUrA97TG2YU&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=6) - Bobbin Threadbare, Brendan Farmer, ZK Whiteboard Sessions
 - [ZK HACK IV - Provable State Changes: Polygon Miden Transaction Kernel](https://www.youtube.com/watch?v=V4fzsti11qU&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=7) - Dominik Schmid, Bobbin Threadbare, ZK Hack IV
 - [ZK Whiteboard Sessions – Module Nine: Introduction to zkRollups with Barry Whitehat](https://www.youtube.com/watch?v=lJS4z2n4P1E&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=8) - Bobbin Threadbare, Barry Whitehat, ZK Whiteboard Sessions
 - [ZK Whiteboard Sessions – Module Eight: Achieving Decentralised Private Computation](https://www.youtube.com/watch?v=_oW29AOKWTs&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=9) - Bobbin Threadbare, Pratyush Mishra, ZK Whiteboard Sessions
-- [ZK Whiteboard Sessions – Module Seven: Zero Knowledge Virtual Machines (zkVM) with grjte](https://www.youtube.com/watch?v=GRFPGJW0hic&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=10) - Bobbin Threadbare, grjte, ZK Whiteboard Sessions 
+- [ZK Whiteboard Sessions – Module Seven: Zero Knowledge Virtual Machines (zkVM) with grjte](https://www.youtube.com/watch?v=GRFPGJW0hic&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=10) - Bobbin Threadbare, grjte, ZK Whiteboard Sessions
 - [AirScript: a DSL for writing AIR constraints | Bobbin Threadbare | PROGCRYPTO](https://www.youtube.com/watch?v=UxCW33hvnfc&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=11) - Bobbin Threadbare, PROGCRYPTO
 - [StarkWare Sessions 23 | AirScript: A DSL for Writing AIR Constraints | Bobbin Threadbare](https://www.youtube.com/watch?v=8Rk2DOD4ba8&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=12) - Bobbin Threadbare, StarkWare Sessions 2023
 - [Miden & the Future of Privacy Preserving Protocols presented by Paul-Henry Kajfasz of Polygon Miden](https://www.youtube.com/watch?v=GC4jR2rh-5U&list=PLslsfan1R_z20bEgUU_ZyY64AHx5C6vgg&index=13&t=3s) - Paul-Henry Kajfasz, ZK Accelerate Athens
